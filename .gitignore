@@ -1,11 +1,17 @@
 # Private keys
 *.key
 
-# Certificate requests
+# Certificates
+*.crt
+
+# CSR files
 *.csr
 
-# OpenSSL generated files
+# OpenSSL files
 *.srl
 
-# Backup files
-*.backup
+# Docker
+.env
+
+# OS
+.DS_Store
