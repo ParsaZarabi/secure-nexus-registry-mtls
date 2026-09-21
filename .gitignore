@@ -1,0 +1,11 @@
+# Private keys
+*.key
+
+# Certificate requests
+*.csr
+
+# OpenSSL generated files
+*.srl
+
+# Backup files
+*.backup
